@@ -39,3 +39,4 @@ city = "New York"
 #print a sentence using all the variables above using f-strings
 print(f"Today is: {date}, and it is {weather} outside. I live in {city}. My hobby is  {hobby} and it makes me {mood}. ")
 print(f"We did it.")
+print("We did something else.")
